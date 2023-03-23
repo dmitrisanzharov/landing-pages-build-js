@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.26c316fc.css",
-    "main.js": "/static/js/main.ff813f2a.js",
+    "main.js": "/static/js/main.fd3210a3.js",
     "static/js/787.cfe29d29.chunk.js": "/static/js/787.cfe29d29.chunk.js",
     "static/media/mercedesBenzIoThumbnail.png": "/static/media/mercedesBenzIoThumbnail.ffa2f498c0e2e565d62f.png",
     "static/media/appleCeo.png": "/static/media/appleCeo.783d6ab65d930c1316c6.png",
@@ -110,11 +110,11 @@
     "static/media/closeIcon.svg": "/static/media/closeIcon.2001e956d267bc9b1a2349ee0a8ee521.svg",
     "static/media/playIcon3.svg": "/static/media/playIcon3.c06d82243cbf58d129349baef4f147d1.svg",
     "main.26c316fc.css.map": "/static/css/main.26c316fc.css.map",
-    "main.ff813f2a.js.map": "/static/js/main.ff813f2a.js.map",
+    "main.fd3210a3.js.map": "/static/js/main.fd3210a3.js.map",
     "787.cfe29d29.chunk.js.map": "/static/js/787.cfe29d29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.26c316fc.css",
-    "static/js/main.ff813f2a.js"
+    "static/js/main.fd3210a3.js"
   ]
 }
